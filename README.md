@@ -429,4 +429,8 @@ HAVING COUNT(*) > 2;
 -- This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation -- for data management and analysis.
 
 
+## Comprehensive Overview of Library Management Data.pptx
+https://github.com/kaushikmaji44/Library-Management-System-SQL-Project/blob/4e89883fc82e11a47989d2b1adacfeeaf4bb1951/Comprehensive%20Overview%20of%20Library%20Management%20Data.pptx
+
+
 -- Thank you !
